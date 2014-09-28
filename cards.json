@@ -1,0 +1,26 @@
+{
+    "cardA":{
+        "start": "Bangalore", "dest": "Dubai",
+        "busroute": {"busName": "Bus1", "busStatA": "StationA", "busStatB": "StationB", "busSeat": "2AB"},
+        "trainroute": {"trainName": "Train1", "trainStatA": "StationA","trainStatB": "StationB", "trainPlat":"2", "trainSeat": "2AB"},
+        "flightroute": {"flightName": "Flight1", "airportA": "StationA", "airportB": "StationB", "flightSeat": "2AB"}
+    },
+    "cardB":{
+        "start": "Dubai", "dest": "Frankfurt",
+        "busroute": {"busName": "Bus1", "busStatA": "StationA", "busStatB": "StationB", "busSeat": "2AB"},
+        "trainroute": {"trainName": "Train1", "trainStatA": "StationA","trainStatB": "StationB", "trainPlat":"2", "trainSeat": "2AB"},
+        "flightroute": {"flightName": "Flight1", "airportA": "StationA", "airportB": "StationB", "flightSeat": "2AB"}
+    },
+    "cardC":{
+        "start": "London", "dest": "Dammam",
+        "busroute": {"busName": "Bus1", "busStatA": "StationA", "busStatB": "StationB", "busSeat": "2AB"},
+        "trainroute": {"trainName": "Train1", "trainStatA": "StationA","trainStatB": "StationB", "trainPlat":"2", "trainSeat": "2AB"},
+        "flightroute": {"flightName": "Flight1", "airportA": "StationA", "airportB": "StationB", "flightSeat": "2AB"}
+    },
+    "cardD":{
+        "start": "Dammam", "dest": "Bahrain",
+        "busroute": {"busName": "Bus1", "busStatA": "StationA", "busStatB": "StationB", "busSeat": "2AB"},
+        "trainroute": {"trainName": "Train1", "trainStatA": "StationA","trainStatB": "StationB", "trainPlat":"2", "trainSeat": "2AB"},
+        "flightroute": {"flightName": "Flight1", "airportA": "StationA", "airportB": "StationB", "flightSeat": "2AB"}
+    }
+}
